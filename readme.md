@@ -1,1 +1,1 @@
-Simple data structures in solidity
+Simple data structures in Solidity. For when I unremember something.
